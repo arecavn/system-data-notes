@@ -1,0 +1,7 @@
+1. Different between Clicks and Pageviews (of Logos/Banners):
+- Normally they are same same or event equal.
+- Pageviews are more than clicks for a same item if: the link to the item was shared via FB/Zalo group, campaign emails and user view the item via the link, not click on the original pages of website or app.
+  Another case is some pages of website not track the click event of the same item.
+  
+- Clicks are more than pageviews for a same item if: use click the item on the original website/app which are tracked, but they close sooner than the pageview is recorded or the network/system was bad so can record the pageview event.
+
